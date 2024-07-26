@@ -4,3 +4,11 @@ for i in lst:
     if i%2==0:
         l.append(i)
 print(l)
+
+# after that
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
